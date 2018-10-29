@@ -14,7 +14,7 @@ body {
 
 img {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 .footer {
@@ -24,11 +24,10 @@ img {
   align-items: center;
   padding: 1.5rem 0;
 
+  background-color: #8bc9d9;
+  border-top: 3px solid #005e76;
 
-background-color: #8bc9d9;
-border-top: 3px solid #005e76;
-
-color: #005e76;
+  color: #005e76;
 }
 
 .footer h2 {
@@ -43,7 +42,7 @@ color: #005e76;
   list-style-type: none;
 }
 
-footer a {
+.footer a {
   color: #003442;
 }
 
